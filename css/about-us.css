@@ -11,6 +11,7 @@ h1,h2,h3,h4 {
 
 h5, p {
     font-family: "Bai Jamjuree";
+    
 }
 
 .first-section {
@@ -25,6 +26,7 @@ h5, p {
 
 .second-section .row {
     margin-top: 30px;
+    
 }
 
 .third-section {

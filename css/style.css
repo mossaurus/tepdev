@@ -142,21 +142,21 @@ tr:first-child {
 }
 /* Add this to your style.css file */
 
-/* Responsive design for 604px x 520px screen size */
+/* Responsive design for 604px x 520px screen size
 @media only screen and (max-width: 604px) and (max-height: 520px) {
     /* Apply responsive styles here */
     
     /* Make all sections responsive */
-    section {
+    /* section {
       width: 100%;
       max-width: 604px;
       margin: 0 auto;
       padding: 20px;
       box-sizing: border-box;
-    }
+    } */
     
     /* You can also target specific sections or elements and apply custom styles */
-    .header {
+    /* .header {
       height: 100px;
       background-color: #f0f0f0;
       padding: 20px;
@@ -169,31 +169,8 @@ tr:first-child {
       padding: 10px;
       text-align: center;
     }
-    
+     */
     /* Add more styles as needed */
-  }
-  /* Add this to your style.css file */
-
-/* Responsive design for 604px x 520px screen size */
-@media only screen and (max-width: 604px) and (max-height: 520px) {
-    /* Apply responsive styles here */
-    
-    /* Make Our Squad and Our Creation sections responsive */
-    .our-squad, .our-creation {
-      flex-direction: column;
-      align-items: center;
-    }
-    
-    .our-squad .card, .our-creation .card {
-      width: 100%;
-      margin-bottom: 20px;
-    }
-    
-    .our-squad .card img, .our-creation .card img {
-      width: 50%;
-      height: auto;
-      margin: 0 auto;
-    }
-    
-    /* Add more styles as needed */
-  }
+  
+  
+  
